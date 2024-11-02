@@ -12,3 +12,7 @@
 
 #### NLP Pipeline:
 ![image](https://github.com/user-attachments/assets/e1d6d9a7-568e-45aa-ab19-484fcebccb83)
+
+#### ML Cheatsheet:
+<img width="952" alt="image" src="https://github.com/user-attachments/assets/4512abe1-1100-4084-9526-146c18ced69c">
+
