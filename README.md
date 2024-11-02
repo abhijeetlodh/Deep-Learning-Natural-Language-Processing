@@ -8,3 +8,6 @@
 
 #### Just Found this somewhere:
 ![image](https://github.com/user-attachments/assets/5719eecc-ab34-4f5b-9f02-97633e96ef46)
+
+#### NLP Pipeline:
+![image](https://github.com/user-attachments/assets/e1d6d9a7-568e-45aa-ab19-484fcebccb83)
