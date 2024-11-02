@@ -16,3 +16,6 @@
 #### ML Cheatsheet:
 <img width="952" alt="image" src="https://github.com/user-attachments/assets/4512abe1-1100-4084-9526-146c18ced69c">
 
+<img width="777" alt="image" src="https://github.com/user-attachments/assets/4abe7b7b-8324-46d1-9e41-8f8fe90aad72">
+
+
