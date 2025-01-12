@@ -24,4 +24,8 @@
 
 <img width="777" alt="image" src="https://github.com/user-attachments/assets/4abe7b7b-8324-46d1-9e41-8f8fe90aad72">
 
+#### Algorithms overview
+![image](https://github.com/user-attachments/assets/85784e62-325a-4be2-9775-95d28ea8ae8f)
+
+
 
